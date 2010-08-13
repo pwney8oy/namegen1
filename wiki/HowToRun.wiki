@@ -13,8 +13,8 @@ SYNTAX:
 {{{
      name -[m, f]
      Ex.
-     name -m
-     name -f
+     name -m ## Male
+     name -f ## Female
 }}}
 
 ===To run NameGen in Linux:===
