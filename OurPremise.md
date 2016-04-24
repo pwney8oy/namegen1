@@ -1,0 +1,12 @@
+NameGen has rules and goals that will be followed when it is being made.
+It will always stick to this premise:
+
+  * Quickly and easily create fake names, and other content.
+  * Appeal to users in the form which they want (GUI, Command Line)
+  * Have accurate and valid data.
+  * Be small and efficient.
+  * Have few problems.
+
+NameGen will always follow the above rules, so you know what you're getting. If you want a feature added, feel free to file and issue in the Issues tab above. If you find an error you should also create an issue with the error code and message in the Issues tab above.
+
+Thanks
